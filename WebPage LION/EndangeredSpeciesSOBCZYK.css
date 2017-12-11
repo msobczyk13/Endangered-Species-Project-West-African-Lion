@@ -1,0 +1,104 @@
+/*
+* Mackenzie Sobczyk
+* December 11,2017
+* A webpage all about a West African Lion
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+	background-color: lightblue; color: dimgray
+	width: 950px
+	margin: auto;
+
+}
+
+* { margin: 0;
+	padding: 0; }
+	
+/*The h1 attributes*/
+h1 {
+	color: midnightblue;
+	text-align: center;
+	font-family: "Courier" ;
+	margin: 20px;
+}
+
+
+/*The paragraph attributes*/
+p {
+	color: maroon;
+}
+
+/*Beginning the image attributes*/
+.lionimg {
+	height: 150px;
+	width: 175px;
+	margin: 0.65em 0.65em 0.65em 0.65em;
+	text-align: center;
+}
+
+.lionpic {
+	float: left;
+	padding: 5x;
+	border: 5px dashed black;
+	margin: 15px;
+	height: 200px;
+	width: 200px;
+}
+
+.lionn {
+	height: 200px;
+	width: 350px;
+	margin: 15px;
+	padding: 2px;
+}
+/*Ending the image attributes*/
+
+
+/*Beginning the h2 attributes*/
+h2 {
+	color: midnightblue;
+	text-align: left;
+	font-family: "arial"
+	margin: 20px;
+}
+
+/*beginning the body attributes*/
+body {
+	color: midnightblue;
+	margin: auto;
+	width: 1000px;
+}
+
+/*beginning the header attributes*/
+header {
+	text-align:center;
+	border-bottom: 3px solid red;
+	
+}
+
+/*beginning the main attributes*/
+main {
+	font-family: "arial" ;
+	
+}
+
+hr {
+	color: red ;
+}
+
+footer {
+	text-align: bottom;
+	color: maroon;
+	border-top: 3px solid red;
+	margin: 20px
+
+}
